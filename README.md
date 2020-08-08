@@ -1,5 +1,6 @@
 # Python
-Still under construction
+Under construction.
+
 My Python Files. The files here are classified into a few different groups.
 
 Python 2.7:
