@@ -16,4 +16,6 @@ Python 3.6:
 
       CS 115 - "Intro to Computer Science"
 
+      Cs 347 - "Software Development Process"
+
     Non-Classwork (Projects that I thought up and coded myself outside of my classes)
