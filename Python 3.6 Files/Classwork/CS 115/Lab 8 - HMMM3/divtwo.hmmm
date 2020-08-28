@@ -1,0 +1,13 @@
+#divtwo.hmmm
+#Author: Ben Rose
+#Prints floor(x/y)
+0 	read r1		#Reads dividend
+1	write r1	#Prints dividend
+2	read r2		#Reads divisor
+3	write r2	#Prints divisor
+4	jeqzn r2 8	#Jump to line 8 if r2 == 0
+5	div r3 r1 r2	#r3 = r1 / r2
+6	write r3	#Print r3
+7	halt
+8	write r2	#Prints r2
+9	halt

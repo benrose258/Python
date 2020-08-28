@@ -1,0 +1,16 @@
+test1$:N
+test2$:Y
+Jordan$:N
+Nebby$:N
+test1:artist,artsy
+two:example,pokemon
+Jordan:Linkin Park,Undertale,pokemon
+Ben$:N
+Nebby:Lily,Lunala,pokemon
+test2:Ash,a,a,a,game freak,pokemon
+test:a,a,a,a,a,h,je
+test$:N
+two$:N
+Jake$:N
+Ben:Ash,Misty,a,ee,etc,game freak,pokemon
+Jake:Watsky,Beatles,Queen,Smooth McGroove

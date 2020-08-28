@@ -1,0 +1,10 @@
+#factorial.hmmm
+#n!, where n is a non-negative integer.
+0	read r1		#Get n
+1	setn r13 1	# r13 = 1
+2	jeqzn r1 6	# break loop when r1 == 0
+3	mul r13 r13 r1	# r13 = r13 * r1
+4	addn r1 -1	# r1 = r1 - 1
+5	jumpn 2		# Goto line 2
+6	write r13
+7	halt
