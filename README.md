@@ -8,7 +8,7 @@ Python 2.7:
 
       CS 110 - "Creative Problem Solving Computing"
 
-    Non-Classwork (Projects that I thought up and coded myself outside of my classes)
+    Personal Projects (Projects that I thought up and coded myself outside of my classes)
 
 Python 3.6:
 
@@ -18,4 +18,4 @@ Python 3.6:
 
       Cs 347 - "Software Development Process"
 
-    Non-Classwork (Projects that I thought up and coded myself outside of my classes)
+    Personal Projects (Projects that I thought up and coded myself outside of my classes)
